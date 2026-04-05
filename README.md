@@ -1,7 +1,7 @@
-# 🌿 EcoMind – Your Personal Voice Assistant in Python
+# 🌿 Vision – Your Personal Voice Assistant in Python
 
-EcoMind is an intelligent voice assistant built using Python.  
-Inspired by **JARVIS** from the Marvel universe, EcoMind can help with everyday tasks like telling the weather, opening websites, answering questions, telling jokes, fetching Wikipedia summaries, and much more – all through your **voice** 🎤.
+Vision is an intelligent voice assistant built using Python.  
+Inspired by **JARVIS** from the Marvel universe, it can help with everyday tasks like telling the weather, opening websites, answering questions, telling jokes, fetching Wikipedia summaries, and much more – all through your **voice** 🎤.
 
 ---
 
